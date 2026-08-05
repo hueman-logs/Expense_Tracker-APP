@@ -1,4 +1,4 @@
-# 💰 Expense Tracker App
+# 💰 Expense Tracker App V1.5
 
 A modern Android Expense Tracker application built to help users manage their daily expenses efficiently. The app allows users to record, categorize, and monitor their spending with an intuitive and user-friendly interface.
 
