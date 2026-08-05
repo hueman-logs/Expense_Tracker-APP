@@ -2,6 +2,19 @@
 
 A modern Android Expense Tracker application built to help users manage their daily expenses efficiently. The app allows users to record, categorize, and monitor their spending with an intuitive and user-friendly interface.
 
+## ✨ Features
+
+- ➕ Add income and expense transactions
+- ✏️ Edit or delete existing transactions
+- 📂 Organize transactions by category
+- 📅 Track expenses by date
+- 💰 View current balance, total income, and total expenses
+- 📄 Export monthly statements as PDF documents
+- 🌙 Toggle between Light Mode and Dark Mode
+- 💾 Offline local data storage
+- ⚡ Fast, lightweight, and user-friendly interface
+- 🎨 Modern Material Design UI
+
 ## 📱 Features
 
 - ➕ Add new income and expense transactions
